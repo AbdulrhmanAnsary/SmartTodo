@@ -7,6 +7,7 @@ SmartTodo is a minimalist To-Do list application built with plain JavaScript tha
 - **Mark as Complete:** Easily update the status of your tasks.
 - **Real-Time Rendering:** Watch your task list update instantly as you work.
 - **Clean Code Structure:** Embraces a modern, object-oriented approach for streamlined task management.
+- **The Challenge Solution:** The article provides a challenge in the end to try building the same to-do app without using the class keyword. Use object literals and prototypes instead, I solved the challenge in main-using-proto-style.js file.
 
 ## Getting Started
 
@@ -47,7 +48,6 @@ This code is adapted from the freeCodeCamp article "[How to Use Classes in JavaS
 - **Data Persistence:** Implement local storage to save tasks between sessions.
 
 - **Extended Features:** Add options for task editing, deletion, and filtering.
-
 
 ## Contributing
 We welcome contributions that drive forward innovative features and improvements. Feel free to fork the repository, make your enhancements, and submit a pull request.
